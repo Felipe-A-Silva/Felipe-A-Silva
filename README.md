@@ -13,4 +13,4 @@
 -⚡ To keep your balance, you must keep moving - Albert Einstein.
 
 -💻 technologies I use:
-[](https://img.shields.io/badge/-HTML-FF0000) 
+![](https://img.shields.io/badge/-HTML-FF0000) 
