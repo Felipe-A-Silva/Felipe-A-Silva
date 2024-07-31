@@ -1,5 +1,5 @@
 -👋 Hi! I'm Felipe Silva, welcome to my workspace, where imagination is the key word🎬
-
+----------------------------------------------------------------------------------------------
 -📚 Systems Analysis and Development student 4/4.
 
 -🌱 I’m currently learning Python, HTML,CSS,JavaScript,C,C# and DDL,DML(Mysql Workbench)
@@ -11,5 +11,5 @@
  📌Linkedin:https://www.linkedin.com/in/felipe-silva-363682213
 
 -📫 To contact me, just send me an email and I will respond to you as quickly as possible.
-----------------------------------------------------------------------------------------------
+
 -⚡ To keep your balance, you must keep moving - Albert Einstein.
