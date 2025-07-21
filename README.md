@@ -1,4 +1,4 @@
- 👋 # 🇬🇧 Hi! I'm Felipe Silva, Front‑End Developer in training  
+👋 # 🇬🇧 Hi! I'm Felipe Silva, Front‑End Developer in training  
      # 🇧🇷 Olá! Sou Felipe Silva, Desenvolvedor Front‑End em formação
 ----------------------------------------------------------------------------------------------
 - 📚 Systems Analysis and Development student 4/4.
