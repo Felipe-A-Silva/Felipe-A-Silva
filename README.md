@@ -2,7 +2,7 @@
 ----------------------------------------------------------------------------------------------
 - 📚 Systems Analysis and Development student 4/4.
 
-- 🔎 I'm looking to collaborate on whatever you need! just contact me😅.
+- 🔎 I'm looking to collaborate on front-end development! just contact me😅.
 
 - 📩Email:feasilva1212@gmail.com
  
