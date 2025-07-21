@@ -1,4 +1,5 @@
- 👋 Hi! I'm Felipe Silva, welcome to my workspace, where imagination is the keyword🎬
+ 👋 # 🇬🇧 Hi! I'm Felipe Silva, Front‑End Developer in training  
+    # 🇧🇷 Olá! Sou Felipe Silva, Desenvolvedor Front‑End em formação
 ----------------------------------------------------------------------------------------------
 - 📚 Systems Analysis and Development student 4/4.
 
