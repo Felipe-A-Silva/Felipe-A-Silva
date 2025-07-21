@@ -10,5 +10,5 @@
 
 - 💻 Languages and technologies I use:
 
-     ![](https://img.shields.io/badge/-Python-006400) ![](https://img.shields.io/badge/-HTML-FF0000)  ![](https://img.shields.io/badge/-CSS-ADD8E6) ![](https://img.shields.io/badge/-Javascript-FFFF00) ![](https://img.shields.io/badge/-C-ffb6c1) ![](https://img.shields.io/badge/-Mysql-9ACD32)
+  ![](https://img.shields.io/badge/-HTML-FF0000)  ![](https://img.shields.io/badge/-CSS-ADD8E6) ![](https://img.shields.io/badge/-Javascript-FFFF00) ![](https://img.shields.io/badge/-C-ffb6c1) ![](https://img.shields.io/badge/-Mysql-9ACD32) ![](
 
