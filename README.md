@@ -48,8 +48,8 @@
 ### 📫 Contact Me
 
 <div align="center">
-[![LinkedIn](https://img.shields.io/badge/-Felipe%20Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-silva-363682213)
-[![Email](https://img.shields.io/badge/-feasilva1212@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feasilva1212@gmail.com)
+![LinkedIn](https://img.shields.io/badge/-Felipe%20Silva-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/felipe-silva-363682213)
+![Email](https://img.shields.io/badge/-feasilva1212@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:feasilva1212@gmail.com)
 
 
 ---
