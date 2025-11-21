@@ -1,23 +1,17 @@
 <div align="center">
 
-# 👋 Hi there! I'm **Felipe Silva**
+# 👋 Hi, I'm **Felipe Silva**
+**Front-End Developer | Problem Solver | Lifelong Learner**  
 
-🇧🇷 Olá! Sou **Felipe Silva**  
-**Front-End Developer | Problem Solver | Lifelong Learner**
-
----
-
-🎓 **Systems Analysis and Development student (4/4)**  
-💻 Focused on building clean, modern and efficient front-end applications.
+🎓 Systems Analysis and Development (4/4)  
 
 </div>
 
 ---
 
 ### 🧠 About Me
-- I’m passionate about creating user-focused interfaces and solving problems through code.  
-- Sempre buscando melhorar lógica, boas práticas e escrever código limpo.  
-- Currently sharpening my skills in front-end development and modern JavaScript tools.
+Passionate about building **modern, clean front-end applications**.  
+Always learning, experimenting, and shipping projects that matter.
 
 ---
 
@@ -37,14 +31,18 @@
 
 ---
 
-### 📈 Coding Practice (optional)
-> *I use these platforms to improve problem-solving and logic.*
+### 🚀 Projects
+> *Currently building projects. Stay tuned!*  
+
+*(Projects coming soon…)*
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
-[![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://codewars.com)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=github_dark)
 
 </div>
 
@@ -59,12 +57,3 @@
 
 </div>
 
-
----
-
-<div align="center">
-
-💬 *"Learning is my superpower. I want to build solutions that matter."*  
-💬 *"Aprender é meu superpoder. Quero construir soluções que realmente importam."*
-
-</div>
