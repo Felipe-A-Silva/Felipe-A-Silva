@@ -42,7 +42,7 @@ Always learning, experimenting, and shipping projects that matter.
 
 <div align="center">
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=github_dark)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-A-Silva&show_icons=true&theme=github_dark)
 
 </div>
 
